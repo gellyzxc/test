@@ -6,7 +6,7 @@
 ;
 let Captcha;
 (function($) {
-  'use strict';
+  // 'use strict';
   const resourceUpper = ['A','B','C','E','F','G','H','J','K','L','M','N','P','Q','R','S','T','W','X','Y','Z'];
   const resourceLower = ['a','b','c','e','f','g','h','j','k','l','m','n','p','q','r','s','t','w','x','y','z'];
   const resourceNumber = ['0','1','2','3','4','5','6','7','8','9'];
